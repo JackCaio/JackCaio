@@ -3,7 +3,7 @@ import Desenvolvedor from 'JackCaio';
 
 class SobreMim extends Desenvolvedor {
   nome = 'Caio Galiaço Iack',
-  area = 'Front End',
+  area = 'FullStack',
   estudos = [
     {
       instituicao = 'Trybe',
