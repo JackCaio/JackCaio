@@ -17,9 +17,9 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ['JavaScript', 'PHP', 'MySQL'],
+  linguagens = ['JavaScript', 'TypeScript', 'PHP', 'MySQL'],
   bibliotecas = ['Bootstrap', 'ReactJS'],
-  frameworks = ['Laravel', 'CodeIgniter'],
+  frameworks = ['Express', 'Laravel', 'CodeIgniter'],
   devOps = ['git', 'Docker'],
 }
 ```
